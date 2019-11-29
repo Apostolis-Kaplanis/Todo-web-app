@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.tolis.springboot.web</groupId>
-	<artifactId>spring-boot-first-web-application</artifactId>
+	<artifactId>todo-web-application</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>spring-boot-first-web-application</name>
-	<description>Demo project for Spring Boot</description>
+	<name>todo-web-application</name>
+	<description>A Todo Web Application</description>
 
 	<properties>
 		<java.version>1.8</java.version>
