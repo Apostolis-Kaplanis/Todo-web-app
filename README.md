@@ -1,5 +1,5 @@
 # A Todo application
-### A full stuctured Spring-boot MVC sample project 
+### A full structured Spring-boot MVC project 
 
 
 #### Implemented with:
