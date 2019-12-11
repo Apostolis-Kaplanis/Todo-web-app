@@ -26,5 +26,8 @@
 - Error Controller & page
 - Exception Handling
 
-### Later on, this project will be uploaded at Heroku's server so it can run live.
-### Link will be provided here.
+### Screenshots
+![1](https://user-images.githubusercontent.com/55952739/70645637-08ddc580-1c4e-11ea-8a89-28c06679d0f3.png)
+![2](https://user-images.githubusercontent.com/55952739/70645638-08ddc580-1c4e-11ea-8e39-48ed2b22844a.png)
+![3](https://user-images.githubusercontent.com/55952739/70645639-08ddc580-1c4e-11ea-896c-44a32d5173ce.png)
+![4](https://user-images.githubusercontent.com/55952739/70645640-09765c00-1c4e-11ea-9ef1-ef10bd8ce246.png)
